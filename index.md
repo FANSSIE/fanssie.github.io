@@ -11,6 +11,6 @@ FAnSSIE creates an Antarctic system science capability for DOE’s E3SM climate 
 
 FAnSSIE began in September 2022.  More information will be added as the project progresses.
 
-![abumipMali](/images/MALI-ABUMIP-200yrs.png)
+![abumipMali](images/MALI-ABUMIP-200yrs.png)
 *Antarctic ice sheet geometry and surface speed (color) 200 yrs after removal of all floating ice shelves (ABUMIP experiment) simulated by MALI.*
 
