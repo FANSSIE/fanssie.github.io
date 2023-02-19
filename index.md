@@ -8,8 +8,9 @@ layout: default
 
 Sea-level rise (SLR) is a major impact of anthropogenic climate change, and future increases in sea level will lead to devastating impacts on coastal populations and infrastructure.    While the human, infrastructure, financial, and global security impacts of future SLR are immense, large uncertainty in projections complicate plans for mitigation and adaptation.   Despite more than a decade of effort and substantial improvements in ice-sheet models  future mass loss from the Antarctic Ice Sheet (AIS) remains the largest source of uncertainty in future SLR.   Because of the presence of tipping points and threshold processes in AIS evolution  and feedbacks between AIS and the larger climate system, future SLR is subject to "deep uncertainty".  Addressing this deep uncertainty  requires accurate incorporation of the known and hypothesized AIS tipping point processes into ice-sheet and Earth-system models, where they are currently poorly represented or completely absent.
 
-![AIS deep uncertainty](images/AIS_uncertainty.png)
-* Recent projections of the future contribution of the Antarctic Ice Sheet to sea-level rise, considering different assumptions about deep uncertainty ([projections with well-known processes](https://www.nature.com/articles/s41586-021-03302-y) in blue, [projections accounting for deep uncertainty in ice-shelf basal melt and hydrofracture](https://www.nature.com/articles/s41586-021-03302-y) in green, and [projections accounting for deep uncertainty due to Marine Ice Cliff Instability](https://www.nature.com/articles/s41586-021-03427-0) in orange. 
+![AIS deep uncertainty](images/AIS_uncertainty.png){: width="400" }
+
+*Recent projections of the future contribution of the Antarctic Ice Sheet to sea-level rise, considering different assumptions about deep uncertainty ([projections with well-known processes](https://www.nature.com/articles/s41586-021-03302-y) in blue, [projections accounting for deep uncertainty in ice-shelf basal melt and hydrofracture](https://www.nature.com/articles/s41586-021-03302-y) in green, and [projections accounting for deep uncertainty due to Marine Ice Cliff Instability](https://www.nature.com/articles/s41586-021-03427-0) in orange.)*
 
 ## E3SM and Antarctic Science
 
@@ -17,7 +18,13 @@ The U.S. Department of Energy ([DOE](https://energy.gov/)) supports the [Energy 
 
 ## FAnSSIE Goals
 
-FAnSSIE creates an Antarctic system science capability for DOE’s E3SM climate model by adding key missing processes for the ice sheet, ocean, and snowpack, and the coupling between them.  These features include 1) the ability of the ocean model to advance into previously ice-covered regions as the ice sheet retreats, 2) the ability of the snowpack model to represent the formation and accumulation of meltwater in the snowpack, which can ultimately contribute to fracturing of the ice beneath, 3) a representation of flowing ice that combines ductile and brittle behavior needed to simulate the formation of rifts and icebergs, 4) the ability of the ice-sheet model mesh to align and evolve with rifts as they develop.  These capabilities are supplemented by improvements to computational performance, more accurate representation of ice-sheet model physics, and a workflow for quantifying the uncertainty in sea-level change projections.  FAnSSIE builds on the development of the ice-sheet model MALI under the [ProSPect](https://doe-prospect.github.io/) SciDAC4 project.
+FAnSSIE creates an Antarctic system science capability for DOE’s E3SM climate model by adding key missing processes for the ice sheet, ocean, and snowpack, and the coupling between them.  These features include:
+1. the ability of the ocean model to advance into previously ice-covered regions as the ice sheet retreats
+2. the ability of the snowpack model to represent the formation and accumulation of meltwater in the snowpack, which can ultimately contribute to fracturing of the ice beneath
+3. a representation of flowing ice that combines ductile and brittle behavior needed to simulate the formation of rifts and icebergs
+4. the ability of the ice-sheet model mesh to align and evolve with rifts as they develop
+
+These capabilities are supplemented by improvements to computational performance, more accurate representation of ice-sheet model physics, and a workflow for quantifying the uncertainty in sea-level change projections.  FAnSSIE builds on the development of the ice-sheet model MALI under the [ProSPect](https://doe-prospect.github.io/) SciDAC4 project.
 
 FAnSSIE began in September 2022.  More information will be added as the project progresses.
 

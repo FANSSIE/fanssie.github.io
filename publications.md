@@ -6,7 +6,7 @@ permalink: /publications/
 
 *^ Indicates publication transitional with [ProSPect project](https://doe-prospect.github.io/publications/).*
 
-* Hartland, Tucker, Georg Stadler, Mauro Perego, Kim Liegeois, and Noemi Petra. 2023. [Hierarchical Off-Diagonal Low-Rank Approximation of Hessians in Inverse Problems, with Application to Ice Sheet Model Initializaiton](https://doi.org/10.48550/ARXIV.2301.03644) *arXiv*. https://doi.org/10.48550/ARXIV.2301.03644.
+* ^ Hartland, Tucker, Georg Stadler, Mauro Perego, Kim Liegeois, and Noemi Petra. 2023. [Hierarchical Off-Diagonal Low-Rank Approximation of Hessians in Inverse Problems, with Application to Ice Sheet Model Initializaiton](https://doi.org/10.48550/ARXIV.2301.03644) *arXiv*. https://doi.org/10.48550/ARXIV.2301.03644.
 
 * ^ He, QiZhi, Mauro Perego, Amanda A. Howard, George Em Karniadakis, and Panos Stinis. 2023. [A Hybrid Deep Neural Operator/Finite Element Method for Ice-Sheet Modeling](https://doi.org/10.48550/ARXIV.2301.11402) *arXiv*. https://doi.org/10.48550/ARXIV.2301.11402.
 
