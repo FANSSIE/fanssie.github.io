@@ -6,6 +6,10 @@ permalink: /presentations/
 
 ## 2023
 
+**[Maths On Ice](https://twitter.com/icemaths), Virtual Seminar Series, Jan. 9, 2023**
+
+* M. Perego. *Ice sheet initialization with MALI: advances and standing challenges* **Invited**
+
 ---
 
 ## 2022
