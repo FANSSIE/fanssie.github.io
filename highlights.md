@@ -4,9 +4,8 @@ title: Highlights
 permalink: /highlights/
 ---
 
-Flyer with more information on the MALI ice-sheet model can be found here:  [MALI](https://climatemodeling.science.energy.gov/sites/default/files/technical-highlights/TechnicalHighlight_MALI.pdf)
-
-*ProSPect* ice sheet models will ultimately contribute to DOE's Energy Exascale Earth System Model (E3SM). More information can be found at the E3SM [homepage](https://e3sm.org/).
+An overview of the MALI ice-sheet model can be found in a [MALI summary flyer](https://climatemodeling.science.energy.gov/sites/default/files/technical-highlights/TechnicalHighlight_MALI.pdf).
+Information on E3SM can be found on the [E3SM homepage](https://e3sm.org/).
 
 
 **Highlights**
