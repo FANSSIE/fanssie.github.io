@@ -6,6 +6,10 @@ permalink: /presentations/
 
 ## 2023
 
+**[SIAM CSE 2023](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands, Feb 26 - Mar 3, 2023**
+
+* M. Perego. *Computational Challenges in Designing Robust Solvers for Ice Sheet Modeling* 
+
 **[Maths On Ice](https://twitter.com/icemaths), Virtual Seminar Series, Jan. 9, 2023**
 
 * M. Perego. *Ice sheet initialization with MALI: advances and standing challenges* **Invited**
