@@ -10,6 +10,10 @@ permalink: /presentations/
 
 * M. Perego. *Computational Challenges in Designing Robust Solvers for Ice Sheet Modeling* 
 
+* J. Watkins. *Performance-portable extensions to ice-sheet modeling in MALI*
+
+* I. Tezaur. *Achieving and maintaining performance and performance portability within the Albany multi-physics code: perspectives and tools*
+
 **[Maths On Ice](https://twitter.com/icemaths), Virtual Seminar Series, Jan. 9, 2023**
 
 * M. Perego. *Ice sheet initialization with MALI: advances and standing challenges* **Invited**
