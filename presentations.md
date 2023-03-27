@@ -8,6 +8,10 @@ permalink: /presentations/
 
 **[SIAM CSE 2023](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands, Feb 26 - Mar 3, 2023**
 
+* J. Watkins. *Performance Portable Extensions to Ice-Sheet Modeling in Mali* 
+
+* K. Liegeois. *Computational Efficient Estimation of the Extreme Event Probability of the Mass Loss of Antarctic Ice Sheets* 
+
 * M. Perego. *Computational Challenges in Designing Robust Solvers for Ice Sheet Modeling* 
 
 **[Maths On Ice](https://twitter.com/icemaths), Virtual Seminar Series, Jan. 9, 2023**
