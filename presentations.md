@@ -6,9 +6,17 @@ permalink: /presentations/
 
 ## 2023
 
+**[FASTMath Seminar Series](https://www.scidac5-fastmath.lbl.gov/fastmath-seminar-series), Virtual Seminar Series, Apr. 24, 2023**
+
+* J. Watkins. *Ongoing challenges in improving and maintaining computational performance in the ice-sheet modeling code MALI* **Invited**
+
+---
+
 **[SIAM CSE 2023](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam, The Netherlands, Feb 26 - Mar 3, 2023**
 
-* J. Watkins. *Performance Portable Extensions to Ice-Sheet Modeling in Mali* 
+* J. Watkins. *Performance-Portable Extensions to Ice-Sheet Modeling in MALI*
+
+* I. Tezaur. *Achieving and Maintaining Performance and Performance Portability within the Albany Multi-Physics Code: Perspectives and Tools*
 
 * K. Liegeois. *Computational Efficient Estimation of the Extreme Event Probability of the Mass Loss of Antarctic Ice Sheets* 
 
