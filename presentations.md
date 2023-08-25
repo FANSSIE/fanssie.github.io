@@ -6,9 +6,53 @@ permalink: /presentations/
 
 ## 2023
 
+**Germantown on the Mesa, LANL Office of Science Seminar Series, Virtual/LANL, August 10, 2023**
+
+* M. Hoffman. *From the poles to the coast: Improving projections of the contribution of the Antarctic Ice Sheet to sea-level change and accounting for regional variations in sea level*
+
+---
+
+**[17th U. S. National Congress on Computational Mechanics](https://17.usnccm.org/), Albuquerque, NM, July 23-27, 2023**
+
+* M. Carlson. *Automated Tuning of Albany Land Ice for Portable Performance*
+
+* M. Hoffman. *Stress, Damage, and Rheological Controls on Iceberg Calving and the Evolution of Thwaites Glacier*
+
+* M. Perego. *A Hybrid Operator Network/Finite ElementMethod for Ice-Sheet Modeling*
+
+* M. Perego. *Ice Sheet Models of Different Fidelity forUncertainty Quantification*
+
+* N. Urban. *Uncertainty Quantification of Antarctic Ice Sheet Dynamics Using High-Resolution Model Ensembles*
+
+---
+
+**[Forum on Research into Ice Shelf Processes 2023](https://www.igsoc.org/event/36th-forum-for-research-into-ice-shelf-processes-frisp-2023), Stalheim, Norway, Jun 19-22, 2023**
+
+* X. Asay-Davis, *Ice sheet-ocean coupling in an Earth System Model*
+
+---
+
+**[Geoscience Frontier Forum, Beijing Normal University](https://www.scimagojr.com/journalsearch.php?q=19700182749&tip=sid), virtual, May 9, 2023**
+
+* M. Hoffman. *From the poles to the coast: Towards a unified treatment of sea level in E3SM*
+
+---
+
+**[EGU](https://www.egu23.eu/), Vienna, Austria, Apr. 23-28, 2023**
+
+* X. Asay-Davis, *Ice sheet-ocean coupling in an Earth System Model*
+
+---
+
 **[FASTMath Seminar Series](https://www.scidac5-fastmath.lbl.gov/fastmath-seminar-series), Virtual Seminar Series, Apr. 24, 2023**
 
 * J. Watkins. *Ongoing challenges in improving and maintaining computational performance in the ice-sheet modeling code MALI* **Invited**
+
+---
+
+**[Pittsburgh Mathematics-Naval Nuclear Laboratory Joint Seminar](https://www.mathematics.pitt.edu/newsletter/spring2023/computational-mathematics-naval-nuclear-laboratory), Pittsburgh, PA, March 14, 2023**
+
+* M. Perego. *Computational Aspects of Ice-Sheet Modeling* **Invited**
 
 ---
 
