@@ -8,9 +8,9 @@ permalink: /publications/
 
 * ^ Reese, William, Joseph Hart, Bart van Bloemen Waanders, Mauro Perego, John Jakeman, and Arvind Saibaba. 2022. [Hyper-Differential Sensitivity Analysis in the Context of Bayesian Inference Applied to Ice-Sheet Problems](doi.org/10.48550/ARXIV.2212.12386) *arXiv*, to appear on the International Journal for Uncertainty Quantification, 2023.
 
-* ^ He, QiZhi, Mauro Perego, Amanda A. Howard, George Em Karniadakis, and Panos Stinis. 2023. [A Hybrid Deep Neural Operator/Finite Element Method for Ice-Sheet Modeling](https://doi.org/10.1016/j.jcp.2023.112428), Jouranl of Computational Physics, 2023. doi.org/10.1016/j.jcp.2023.112428
+* ^ He, QiZhi, Mauro Perego, Amanda A. Howard, George Em Karniadakis, and Panos Stinis. 2023. [A Hybrid Deep Neural Operator/Finite Element Method for Ice-Sheet Modeling](https://doi.org/10.1016/j.jcp.2023.112428), Journal of Computational Physics, 2023. doi.org/10.1016/j.jcp.2023.112428
 
-* ^ Howard, Amanda A., Mauro Perego, George E. Karniadakis, and Panos Stinis. 2022. [Multifidelity Deep Operator Networks](https://doi.org/10.48550/ARXIV.2204.09157) *arXiv*, to appear on the Jouranl of Computational Physics, 2023.
+* ^ Howard, Amanda A., Mauro Perego, George E. Karniadakis, and Panos Stinis. 2022. [Multifidelity Deep Operator Networks](https://doi.org/10.48550/ARXIV.2204.09157) *arXiv*, to appear on the Journal of Computational Physics, 2023.
 
 * ^ Carlson, Max, Jerry Watkins, Irina Tezaur. 2023. [Automatic performance tuning for Albany Land Ice](https://doi.org/10.1016/j.cam.2023.115222) *Journal of Computational and Applied Mathematics* **425**: 115037. doi.org/10.1016/j.cam.2023.115222.
 
