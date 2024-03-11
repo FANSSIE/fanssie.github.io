@@ -4,7 +4,61 @@ title: Presentations
 permalink: /presentations/
 ---
 
+## 2024
+
+**[SIAM PP 2024](https://www.siam.org/conferences/cm/conference/pp24), Baltimore, MD, March 5-8, 2024**
+
+* J. Watkins. *A Retrospective on Performance Portable Finite Element Assembly in Albany*
+
+---
+
+**[AAAS Annual Meeting](https://meetings.aaas.org/program/?adobe_mc=MCMID%3D14284557780846052670559063974008066280%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1708449431), Denver, CO, Feb. 15–17, 2024**
+
+* T. Hillebrand. *Towards a Modeling Framework for Antarctic System Science*
+
+---
+
 ## 2023
+
+**[Kokkos User Group Meeting](https://kokkos.org/community/kug-2023/), Albuquerque, NM, December 12-15, 2023**
+
+* M. Carlson. *Profiling the performance of Albany Land-Ice on Perlmutter and Frontier*
+
+---
+
+**[American Geophysical Union Fall Meeting](https://www.agu.org/fall-meeting), San Francisco, CA, December 11–15, 2023**
+
+* T. Hillebrand. *Sensitivity of Projected Antarctic Ice Sheet Retreat to Ice-Shelf Melt, Basal Friction, and Thermomechanical Coupling from 2000–2300 using the MALI Ice Sheet Model*
+
+---
+
+**[The 1st annual meeting of SIAM-NNP](https://sites.google.com/view/siam-nynjpa/annual-meeting/program?authuser=0), NJIT, Newark, NJ, October 22, 2023**
+
+* S. Jantre. *Uncertainty Quantification of Antarctic Ice Sheet Dynamics using Statistical Emulation of Model Ensembles*
+
+---
+
+**[E3SM All Hands Webinar](https://acme-climate.atlassian.net/wiki/spaces/ECM/pages/155287565), Virtual, October 12, 2023**
+
+* M. Hoffman. *Framework for Antarctic System Science in E3SM Overview*
+
+---
+
+**[NERSC User Group meeting](https://sites.google.com/lbl.gov/nug-2023/schedule?authuser=0), Virtual, Sept 27, 2023**
+
+* T. Hillebrand. *Simulations of the Antarctic Ice Sheet to 2300 using the MALI ice sheet model*
+
+---
+
+**[2023 SciDAC Principal Investigator Meeting](https://acme-climate.atlassian.net/wiki/spaces/_/pages/3753836756?atlOrigin=eyJpIjoiYjE4MjM5OTEwYjIxNDQ1NTlhMTkyOGJkOTkwNmYzZjMiLCJwIjoiYyJ9), Rockville, MD, Sept. 12-14, 2023**
+
+* M. Hoffman. *Framework for Antarctic System Science in E3SM Overview poster*
+
+* M. Perego. *Advanced PDE-constrained optimization capability for ice-sheet model calibration*
+
+* C. Begeman. *Towards marine ice-sheet evolution in E3SM: Reproducible testing of new physics and uncertainty quantification*
+
+---
 
 **Germantown on the Mesa, LANL Office of Science Seminar Series, Virtual/LANL, August 10, 2023**
 
@@ -96,6 +150,6 @@ permalink: /presentations/
 
 ---
 
-*Last updated: Feb. 19, 2023*
+*Last updated: March 11, 2024*
 
 
