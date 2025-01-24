@@ -6,7 +6,11 @@ permalink: /publications/
 
 *^ Indicates publication transitional with [ProSPect project](https://doe-prospect.github.io/publications/).*
 
+# 2025
+
 * Jakeman, J. D., Perego, M., Seidl, D. T., Hartland, T. A., Hillebrand, T. R., Hoffman, M. J., and Price, S. F. 2024. [An evaluation of multi-fidelity methods for quantifying uncertainty in projections of ice-sheet mass-change] *EGUsphere [preprint]*, https://doi.org/10.5194/egusphere-2024-2209 
+
+# 2024
 
 * Jantre, S., Hoffman, M. J., Urban, N. M., Hillebrand, T., Perego, M., Price, S., and Jakeman, J. D. 2024. [Probabilistic projections of the Amery Ice Shelf catchment, Antarctica, under conditions of high ice-shelf basal melt] *The Cryosphere* **18** 5207–5238, https://doi.org/10.5194/tc-18-5207-2024
 
@@ -17,6 +21,10 @@ permalink: /publications/
 * Whicker-Clarke, C. A., R. Antwerpen, M. G. Flanner, A. Schneider, M. Tedesco, M., and C. S. Zender. 2024. [The effect of physically based ice radiative processes on Greenland ice sheet albedo and surface mass balance in E3SM] *J. Geophys. Res. Atm.* **129** e2023JD040241, https://doi.org/10.1029/2023JD040241
 
 * Ray H Watkins, Jeremy N Bassis, MD Thouless, and Adrian Luckman. 2024. [High basal melt rates and high strain rates lead to more fractured ice] *Journal of Geophysical Research: Earth Surface* **129** (4): 1-16. https://doi.org/10.1029/2023JF007366
+
+* ^ Reese, William, Joseph Hart, Bart van Bloemen Waanders, Mauro Perego, John Jakeman, and Arvind Saibaba. 2024. [Hyper-Differential Sensitivity Analysis in the Context of Bayesian Inference Applied to Ice-Sheet Problems] *International Journal for Uncertainty Quantification* **14** 3. https://doi.org/10.1615/Int.J.UncertaintyQuantification.2023047605
+
+# 2023
 
 * Bassis, Jeremy N., and Samuel B. Kachuck. 2023. [Beyond the Stokes Approximation: Shallow Visco-Elastic Ice-Sheet Models] *Journal of Glaciology* September, 1–12. https://doi.org/10.1017/jog.2023.75.
 
@@ -40,16 +48,14 @@ permalink: /publications/
 
 * ^ Liegeois, Kim, Mauro Perego, and Tucker Hartland. 2023. [PyAlbany: A Python Interface to the C++ Multiphysics Solver Albany](https://doi.org/10.1016/j.cam.2022.115037) *Journal of Computational and Applied Mathematics* **425**: 115037. https://doi.org/10.1016/j.cam.2022.115037
 
-* ^ Reese, William, Joseph Hart, Bart van Bloemen Waanders, Mauro Perego, John Jakeman, and Arvind Saibaba. 2024. [Hyper-Differential Sensitivity Analysis in the Context of Bayesian Inference Applied to Ice-Sheet Problems] *International Journal for Uncertainty Quantification* **14** 3. https://doi.org/10.1615/Int.J.UncertaintyQuantification.2023047605
+* ^ Carlson, M., Watkins, J., & Tezaur, I. 2023. [Automatic performance tuning for Albany Land Ice] *Journal of Computational and Applied Mathematics* **429** 115222. https://doi.org/10.1016/j.cam.2023.115222
+
+# 2022
 
 * ^ Watkins, Jerry, Max Carlson, Kyle Shan, Irina Tezaur, Mauro Perego, Luca Bertagna, Carolyn Kao, Matthew J. Hoffman, and Stephen F. Price. 2022. [Performance Portable Ice-Sheet Modeling with MALI] *The International Journal of High Performance Computing Applications* **37** (5), 600-625. https://doi.org/10.1177/10943420231183688
-
-* ^ Carlson, M., Watkins, J., & Tezaur, I. 2023. [Automatic performance tuning for Albany Land Ice] *Journal of Computational and Applied Mathematics* **429** 115222. https://doi.org/10.1016/j.cam.2023.115222
 
 * ^ Hager, Alexander O, Matthew J Hoffman, Stephen F Price, and Dustin M Schroeder. 2022. [Persistent, Extensive Channelized Drainage Modeled beneath Thwaites Glacier, West Antarctica](https://doi.org/10.5194/tc-16-3575-2022) *The Cryosphere* **16** (9): 3575–99. doi.org/10.5194/tc-16-3575-2022.
 
 * ^ Hillebrand, T. R., Hoffman, M. J., Perego, M., Price, S. F., & Howat, I. M. 2022. [The contribution of Humboldt Glacier, northern Greenland, to sea-level rise through 2100 constrained by recent observations of speedup and retreat] *The Cryosphere* **16** (11): 4679-4700. https://doi.org/10.5194/tc-16-4679-2022.
 
 *Last updated Jan. 24, 2025*
-
-
